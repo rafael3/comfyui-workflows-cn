@@ -75,10 +75,5 @@
 
 ---
 
-## 开源资源 | Included Workflows
-
-你可以浏览本仓库中的 `/workflows/` 文件夹，下载书中配套的 `.json` 工作流文件。  
-我们会持续更新与书中章节匹配的工作流，支持 SDXL、LoRA、FaceFix、批量渲染等功能。
-
----
-https://www.amazon.com/ComfyUI-Handbook-AI-Workflow-Design/dp/8409779277/ref=sr_1_1?crid=272LCZN9YPPLL&dib=eyJ2IjoiMSJ9.k9ZroAu5CL21JDZx-XNPwwZQXOEP60PXVfmFZNTuVU0.0cBshlkNBh-cpOKfrHK_fsrvx5SSHOU2VByadWZvZHM&dib_tag=se&keywords=comfyui+handbook&qid=1763449374&sprefix=comfyui+handbook%2Caps%2C267&sr=8-1–
+## ComfyUI本书 | ComfyUI Book
+https://www.amazon.com/dp/8409779277
