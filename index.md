@@ -27,7 +27,7 @@
 
 **⚠️ 注意：本书为英文原版，仅提供印刷版，暂无 PDF 或中文电子版。**
 
-[![点击购买 ComfyUI 手册](https://raw.githubusercontent.com/rafael3/comfyui-workflows-cn/main/assets/Comfy_Workflows.jpg)](https://a.co/d/eockxat)
+[![点击购买 ComfyUI 手册](https://raw.githubusercontent.com/rafael3/comfyui-workflows-cn/main/assets/[Comfy-Workflows.jpg](https://github.com/rafael3/comfyui-workflows-cn/blob/main/assets/ComfyUI-Worfklows.jpg))](https://a.co/d/eockxat)
 
 
 **前往 Amazon 购买：**  
